@@ -1,0 +1,23 @@
+[
+  { "id": 1, "name": "Notebook Lenovo ThinkPad" },
+  { "id": 2, "name": "Teclado Mecânico RGB" },
+  { "id": 3, "name": "Mouse Gamer Logitech" },
+  { "id": 4, "name": "Monitor 24 polegadas Dell" },
+  { "id": 5, "name": "Processador Intel Core i7" },
+  { "id": 6, "name": "Placa de Vídeo RTX 4060" },
+  { "id": 7, "name": "SSD 1TB Samsung" },
+  { "id": 8, "name": "Memória RAM DDR4 16GB" },
+  { "id": 9, "name": "Headset Gamer HyperX" },
+  { "id": 10, "name": "Webcam Logitech 1080p" },
+  { "id": 11, "name": "Impressora Multifuncional HP" },
+  { "id": 12, "name": "Roteador Wi-Fi 6 TP-Link" },
+  { "id": 13, "name": "Tablet Samsung Galaxy Tab" },
+  { "id": 14, "name": "Smartphone iPhone 15" },
+  { "id": 15, "name": "HD Externo 2TB Seagate" },
+  { "id": 16, "name": "Fonte 650W 80 Plus" },
+  { "id": 17, "name": "Placa Mãe ASUS Prime" },
+  { "id": 18, "name": "Cooler CPU Corsair" },
+  { "id": 19, "name": "Switch Gigabit 24 portas" },
+  { "id": 20, "name": "Cabo HDMI 2.1 Ultra Speed" },
+  { "id": 21, "name": "Notebook Acer Aspire" }
+]
